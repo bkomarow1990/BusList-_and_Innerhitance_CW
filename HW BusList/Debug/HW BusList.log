@@ -1,2 +1,7 @@
-﻿  Source.cpp
-  HW BusList.vcxproj -> C:\Users\dev\source\repos\HW BusList\Debug\HW BusList.exe
+﻿  AutoPark.cpp
+  Bus.cpp
+  BusList.cpp
+  FwdList.cpp
+  Source.cpp
+  Generating Code...
+  HW BusList.vcxproj -> C:\Users\Igor\source\repos\BusList-_and_Innerhitance_CW\Debug\HW BusList.exe
