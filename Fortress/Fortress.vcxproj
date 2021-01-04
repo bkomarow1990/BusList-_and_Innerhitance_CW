@@ -139,7 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Fortress.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Units.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fortress.h" />
+    <ClInclude Include="Shooter.h" />
+    <ClInclude Include="Units.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
